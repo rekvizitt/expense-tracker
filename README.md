@@ -6,12 +6,12 @@ Expense tracker app helps to monitor your money spending.
 
 ## Features
 
-[ ] Adding expenses
-[ ] Editing expenses
-[ ] Deleting expenses
-[ ] View expenses
-[ ] Expenses statistics
-[ ] Reports
+- [ ] Adding expenses
+- [ ] Editing expenses
+- [ ] Deleting expenses
+- [ ] View expenses
+- [ ] Expenses statistics
+- [ ] Reports
 
 ## Technology used
 * Python
