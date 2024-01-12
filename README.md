@@ -23,7 +23,7 @@ Expense tracker app helps to monitor your money spending.
 ## Install
 * You can download the zip or clone the project with git.
 
-    `https://github.com/rekvizitt/expenses-tracker.git`
+    `https://github.com/rekvizitt/expense-tracker.git`
 * Install requirement.txt via terminal:
 
     `pip install -r requirements.txt`
